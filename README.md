@@ -6,7 +6,6 @@
 Sou apaixonado por programação, estou sempre procurando o próximo nível com dev. Tive contato com algumas linguagens como VBA, PHP, C#, python até decidir focar em JS (__NodeJS__) a qual já estou desenvolvendo desde 2019. Sou focado, dedicado e gosto de trabalhar em equipe. 
 
  - Atualmente trabalhando na empresa **In-Haus Logística** na área de projetos e tecnologia .
- <br/> 
  - Minha stack: ReactJS, Node.js, React Native & Typescript
  - Focado nos estudos em Elixir e Phoenix Framework.
 
